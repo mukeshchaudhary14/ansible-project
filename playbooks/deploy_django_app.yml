@@ -5,7 +5,7 @@
 
   vars:
     app_dir: /var/www/django-notes-app
-    repo_url: https://github.com/LondheShubham153/django-notes-app.git
+    repo_url: https://github.com/mukeshchaudhary14/django-notes-app.git
 
   tasks:
 
